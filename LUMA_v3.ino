@@ -80,7 +80,7 @@ unsigned long lastWeatherUpdate = 0;
 unsigned long lastCalParticle   = 0;
 unsigned long lastAgendaTick    = 0;
 
-// PARTICLES
+// Particles Feature
 struct Particle { int16_t x,y; int8_t vx,vy; uint8_t life; uint16_t color; };
 #define NUM_P 10
 Particle parts[NUM_P];
