@@ -8,7 +8,7 @@
 #define ROBOEYES_TFT_MODE
 #include <TFT_RoboEyes.h>
 
-// WIFI
+// WIFI SETUP
 const char* ssid     = "WIFI NAME";
 const char* password = "WIFI PASS";
 
