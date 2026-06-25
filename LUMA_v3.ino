@@ -220,7 +220,7 @@ void applyEmotion(){
         eyes.setAutoblinker(false, 0, 0);
         break;
       case 2:
-        // small round bouncy  tiny cute happy
+        //tiny cute happy
         eyes.setConfiguration(50, 50, 14, C_YELLOW);
         eyes.setMood(HAPPY);
         eyes.setAutoblinker(true, 1, 0);
