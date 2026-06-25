@@ -8,15 +8,13 @@
 #define ROBOEYES_TFT_MODE
 #include <TFT_RoboEyes.h>
 
-// =====================
 // WIFI
-// =====================
-const char* ssid     = "BELL991";
-const char* password = "531D1374E947";
+const char* ssid     = "WIFI NAME";
+const char* password = "WIFI PASS";
 
 const char* weatherHost = "api.openweathermap.org";
 const char* weatherCity = "Toronto";
-const char* weatherKey  = "182f3e219bd6e89f423b500a45dbcdd6";
+const char* weatherKey  = "API KEY";
 
 float currentTemp  = 0, feelsLike = 0, windSpeed = 0;
 int   humidity     = 0;
