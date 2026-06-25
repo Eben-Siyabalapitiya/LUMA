@@ -258,7 +258,7 @@ void applyEmotion(){
         eyes.setIdleMode(false, 0, 0);
         break;
       case 1:
-        // warm cozy round  soft big happy eyes slow blink
+        //big happy eyes slow blink
         eyes.setConfiguration(64, 64, 16, C_PINK);
         eyes.setMood(HAPPY);
         eyes.setAutoblinker(true, 5, 3);
