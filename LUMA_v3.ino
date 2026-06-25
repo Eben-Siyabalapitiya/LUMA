@@ -336,7 +336,6 @@ void handleEmotion(){
   }
 }
 
-
 void handleSwitchTouch(){
   bool touch = digitalRead(TOUCH_SWITCH);
   static unsigned long lastPress = 0;
