@@ -5,8 +5,10 @@
 #include <Adafruit_ST7735.h>
 #include <SPI.h>
 
+
 #define ROBOEYES_TFT_MODE
 #include <TFT_RoboEyes.h>
+
 
 // WIFI SETUP
 const char* ssid     = "WIFI NAME";
