@@ -75,17 +75,13 @@ bool holdFired  = false;
 
 uint8_t madVar = 0, excVar = 0, cozyVar = 0;
 
-// =====================
 // TIMERS
-// =====================
 unsigned long lastClockUpdate   = 0;
 unsigned long lastWeatherUpdate = 0;
 unsigned long lastCalParticle   = 0;
 unsigned long lastAgendaTick    = 0;
 
-// =====================
 // PARTICLES
-// =====================
 struct Particle { int16_t x,y; int8_t vx,vy; uint8_t life; uint16_t color; };
 #define NUM_P 10
 Particle parts[NUM_P];
