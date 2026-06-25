@@ -522,9 +522,6 @@ void updateClock(){
   }
 }
 
-// =====================
-// WEATHER
-// =====================
 void drawWeatherIcon(int16_t cx, int16_t cy, const char* c){
   if(!strcmp(c,"Clear")){
     tft.fillCircle(cx,cy,8,C_YELLOW);
