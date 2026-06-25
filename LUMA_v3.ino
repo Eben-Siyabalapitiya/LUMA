@@ -120,7 +120,6 @@ void gradLine(int16_t x0,int16_t y,int16_t x1,uint16_t c1,uint16_t c2){
   }
 }
 
-
 void drawHeader(const __FlashStringHelper* lbl, uint16_t accent){
   tft.fillRect(0,0,SCREEN_W,20,C_BG);
   gradLine(0,0,SCREEN_W-1,accent,C_MAGENTA);
