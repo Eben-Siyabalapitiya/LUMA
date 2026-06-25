@@ -272,7 +272,7 @@ void applyEmotion(){
         eyes.setIdleMode(false, 0, 0);
         break;
       case 3:
-        // soft neutral  medium eyes very slow gentle blink
+        // soft neutral medium eyes very slow gentle blink
         eyes.setConfiguration(60, 52, 12, C_CYAN);
         eyes.setMood(DEFAULT);
         eyes.setAutoblinker(true, 8, 6);
