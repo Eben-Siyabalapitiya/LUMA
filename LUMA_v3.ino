@@ -282,6 +282,7 @@ void applyEmotion(){
   }
 }
 
+
 void resetToDefault(){
   eyes.setConfiguration(70, 60, 10, C_CYAN); // reset eye shape
   eyes.setMood(DEFAULT);
