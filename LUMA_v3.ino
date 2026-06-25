@@ -160,7 +160,7 @@ void applyEmotion(){
   eyes.setIdleMode(false, 0, 0);
 
   if(currentEmotion == EMO_MAD){
-    // wide flat glare is like 30% tiny squint is like 25% slow disgusted 20%,
+    // wide flat glare is like 30% tiny squint is like 25% slow disgusted 20%
     // big red stare 15% fast twitch blink 10%
     static const uint8_t madW[] = {30, 25, 20, 15, 10};
     uint8_t pick = weightedPick(madW, 5);
@@ -201,8 +201,6 @@ void applyEmotion(){
     }
 
   } else if(currentEmotion == EMO_EXCITED){
-    // big happy laugh 30%, wide awake 25%, round bouncy 20%,
-    // happy wiggle 15%, playful idle 10%
     static const uint8_t excW[] = {30, 25, 20, 15, 10};
     uint8_t pick = weightedPick(excW, 5);
     while(pick == excVar) pick = weightedPick(excW, 5);
