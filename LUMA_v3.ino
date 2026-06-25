@@ -406,9 +406,7 @@ void fetchWeather(){
   weatherLoading = false;
 }
 
-
 // SETUPPPP
-
 void setup(){
   Serial.begin(115200);
   randomSeed(micros());
