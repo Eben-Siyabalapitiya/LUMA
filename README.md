@@ -59,7 +59,7 @@ Get a free OpenWeather API key at [openweathermap.org](https://openweathermap.or
 
 Parts list, wiring diagram, 3D files, step-by-step assembly, and everything else you need to build your own LUMA:
 
-🌐 **[LUMA](https://LUMA.com) — coming soon**
+ **[LUMA](https://LUMA.com) — coming soon**
 
 ---
 
