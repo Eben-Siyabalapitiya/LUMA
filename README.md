@@ -11,7 +11,7 @@ LUMA has four screens you cycle through by tapping a touch sensor:
 
 - **Face mode** : animated robot eyes that blink, look around, and randomly switch expressions
 - **Clock** : clean digital clock synced over WiFi via NTP
-- **Weather** — live temp, condition, humidity, and wind from OpenWeatherMap
+- **Weather** : live temp, condition, humidity, and wind from OpenWeatherMap
 - **Calendar** — full month grid with event highlights and floating particles in the background
 
 The second touch sensor controls emotions:
