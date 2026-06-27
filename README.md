@@ -10,7 +10,7 @@ A tiny desk robot I built that actually has a personality. Runs on an ESP32, sho
 LUMA has four screens you cycle through by tapping a touch sensor:
 
 - **Face mode** : animated robot eyes that blink, look around, and randomly switch expressions
-- **Clock** — clean digital clock synced over WiFi via NTP
+- **Clock** : clean digital clock synced over WiFi via NTP
 - **Weather** — live temp, condition, humidity, and wind from OpenWeatherMap
 - **Calendar** — full month grid with event highlights and floating particles in the background
 
