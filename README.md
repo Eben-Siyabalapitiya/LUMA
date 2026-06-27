@@ -1,6 +1,6 @@
 # LUMA 
 
-A tiny desk robot I built that actually has a personality. Runs on an ESP32, shows animated eyes on a 1.8" TFT screen, and reacts to how you touch it. It also pulls live weather, keeps time, and has a calendar — all sitting on your desk just vibing.
+A tiny desk robot I built that actually has a personality. Runs on an ESP32, shows animated eyes on a 1.8" TFT screen, and reacts to how you touch it. It also pulls live weather, keeps time, and has a calendar, all sitting on your desk just vibing.
 
 ---
 
