@@ -55,11 +55,11 @@ Get a free OpenWeather API key at [openweathermap.org](https://openweathermap.or
 
 ---
 
-## Full build guide
+## Full Build Guide
 
 Parts list, wiring diagram, 3D files, step-by-step assembly, and everything else you need to build your own LUMA:
 
- **[meetluma]((https://www.meetluma.live/)) — coming soon**
+**[meetluma.live](https://www.meetluma.live/)**
 
 ---
 
