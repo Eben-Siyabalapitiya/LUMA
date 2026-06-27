@@ -18,7 +18,7 @@ The second touch sensor controls emotions:
 
 | Interaction | What happens |
 |---|---|
-| Single tap | LUMA gets excited — big happy eyes, fast blinks |
+| Single tap | LUMA gets excited : big happy eyes, fast blinks |
 | Spam tap (4+) | LUMA gets mad — flat angry red eyes, multiple variants |
 | Hold ~1 second | LUMA gets cozy — drowsy droopy eyes, slow blinks |
 | Leave it alone | Resets to default after 6 seconds |
