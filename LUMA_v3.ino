@@ -50,7 +50,7 @@ Mode mode = FACE;
 unsigned long lastInteraction = 0;
 const unsigned long IDLE_TIMEOUT = 30000;
 
-// TOUCH PINSS
+// TOUCH PINS TOP AND BACK
 #define TOUCH_SWITCH  27
 #define TOUCH_EMOTION 14
 bool lastSwitchTouch = false, lastEmotionTouch = false;
