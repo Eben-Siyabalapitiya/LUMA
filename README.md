@@ -65,4 +65,6 @@ Parts list, wiring diagram, 3D files, step-by-step assembly, and everything else
 ## AI Usage
 Used AI as a guide when things got overwhelming like when my firmware hit the flash limit and I had no idea where to start. It never built anything for me, just helped me figure out what was wrong when I was stuck. Everything was built and decided by me.
 
+---
+
 Built by Eben Siyabalapitiya
