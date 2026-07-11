@@ -15,7 +15,7 @@ LUMA has four screens you cycle through by tapping a touch sensor:
 
 The second touch sensor controls emotions:
 
-| Interaction | What happens |
+| Interaction | What happens | 
 |---|---|
 | Single tap | LUMA gets excited : big happy eyes, fast blinks |
 | Spam tap (4+) | LUMA gets mad : flat angry red eyes, multiple variants |
