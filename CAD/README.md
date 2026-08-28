@@ -4,8 +4,9 @@ The LUMA enclosure was designed in Onshape.
 
 ## STEP files (the CAD model)
 
-Exported from Onshape, one file per part:
+Exported from Onshape.
 
+- `LUMA_ASSEMBLY.step` : the whole thing assembled
 - `Brain.step` : main body that holds the ESP32 and screen
 - `Top_cover.step` : lid
 - `Legs.step` : the legs
