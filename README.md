@@ -2,6 +2,10 @@
 
 A tiny desk robot I built that actually has a personality. Runs on an ESP32, shows animated eyes on a 1.8" TFT screen, and reacts to how you touch it. It also pulls live weather, keeps time, and has a calendar, all sitting on your desk just vibing.
 
+![LUMA on my desk](docs/luma.jpg)
+
+I made LUMA because my desk felt empty and I randomly got the urge to build a robot. That was pretty much the whole reason.
+
 ---
 
 ## What it does
@@ -73,6 +77,12 @@ files, and the step-by-step assembly guide.
 Parts list, wiring diagram, 3D files, step-by-step assembly, and everything else you need to build your own LUMA:
 
 **[meetluma.live](https://www.meetluma.live/)**
+
+---
+
+## Stardance
+
+Built for Hack Club Stardance : <https://stardance.hackclub.com/projects/14705>
 
 ---
 ## AI Usage
