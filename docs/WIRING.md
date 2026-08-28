@@ -3,8 +3,9 @@
 Pin numbers match the `#define`s at the top of [`LUMA_v3.ino`](../LUMA_v3.ino). The TFT runs
 on the ESP32's default hardware SPI pins.
 
-The full visual wiring schematic is on the LUMA website: [meetluma.live](https://www.meetluma.live/).
-This is the same thing as a table.
+![LUMA wiring diagram](luma-wiring-diagram.png)
+
+The tables below are the same thing in text. Same diagram is on [meetluma.live](https://www.meetluma.live/build).
 
 ## 1.8" ST7735S TFT → ESP32
 
