@@ -1,5 +1,7 @@
 # Bill of Materials
 
+Machine-readable version with links: [`BOM.csv`](BOM.csv).
+
 Prices are what I actually see on Amazon.ca (Aug 2026), in CAD, before tax and shipping.
 They move around a lot and everything is cheaper on AliExpress if you're willing to wait.
 

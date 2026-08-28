@@ -1,0 +1,8 @@
+Part,Qty,Unit Price CAD,Link,Notes
+ESP32 dev board WROOM-32 (30-pin USB-C),1,14,https://www.amazon.ca/dp/B0CHBMFJBQ,"Main board. ""ESP32 Dev Module"" in Arduino IDE"
+DIYmalls 1.8" ST7735S TFT LCD 128x160 SPI,1,15,https://www.amazon.ca/dp/B0BFDQDGSQ,"~$21 for a 2-pack: https://www.amazon.ca/dp/B0C2HNVSWV"
+TTP223 capacitive touch sensor,2,0.65,https://www.amazon.ca/dp/B01D1D0FLG,"Sold in packs, ~$13 for 20 (HiLetgo). Need 2"
+830-point solderless breadboard,1,8,https://www.amazon.ca/s?k=830+point+solderless+breadboard,"~$13 for a 3-pack (ELEGOO)"
+Dupont jumper wires 120 pcs (M-M / M-F / F-F),1,9,https://www.amazon.ca/dp/B0HGB3P9WG,20 cm length
+USB-C data cable,1,8,https://www.amazon.ca/s?k=usb-c+data+cable,Power and flashing
+ESP32 30-pin breakout board,1,10,https://www.amazon.ca/dp/B0CWL7TK7T,"Optional. Expands 1 GPIO to 2, easier than a breadboard. ~$19 for a 2-pack"
