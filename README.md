@@ -55,6 +55,19 @@ Get a free OpenWeather API key at [openweathermap.org](https://openweathermap.or
 
 ---
 
+## Project Files
+
+- [`LUMA_v3.ino`](LUMA_v3.ino) : the firmware
+- [`BOM.md`](BOM.md) : full parts list with rough CAD prices
+- [`docs/WIRING.md`](docs/WIRING.md) : wiring table for the TFT and both touch sensors
+- [`CAD/`](CAD/README.md) : notes on the printed enclosure (Onshape + 3MF print files)
+
+[meetluma.live](https://www.meetluma.live/) is the main hub for all of it : full parts list,
+the wiring diagram with the visual schematic, the CAD files through Onshape, the 3MF print
+files, and the step-by-step assembly guide.
+
+---
+
 ## Full Build Guide
 
 Parts list, wiring diagram, 3D files, step-by-step assembly, and everything else you need to build your own LUMA:
